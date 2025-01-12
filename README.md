@@ -1,5 +1,5 @@
 # QuizBuzz
-This is a quiz application or a webpage.
+This is a quiz application or a webpage.<br>
 It is primarily built from <strong>HTML, CSS </strong>and <strong>Javascript.</strong>
 
 ![Screenshot (56)](https://github.com/user-attachments/assets/442cf42b-bde1-474d-9aff-cc19207ff619)
